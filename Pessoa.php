@@ -33,6 +33,6 @@ class Pessoa
 		public function setSexo($sexo){
 			$this->sexo = $sexo;
 		}
-		
+		# adicionei um comentário aqui
 	}
 ?>
