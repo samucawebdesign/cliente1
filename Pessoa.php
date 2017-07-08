@@ -35,5 +35,7 @@ class Pessoa
 			$this->sexo = $sexo;
 		}
 		# adicionei um comentário aqui
+		# Olha que legal hein!
+		# Sim, muito bom!
 	}
 ?>
